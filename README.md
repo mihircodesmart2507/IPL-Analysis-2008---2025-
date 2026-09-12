@@ -99,7 +99,7 @@ c) Refresh data for the latest IPL updates.
 
 🔮  **Future Improvements**: 
 
-a) Add win probability models and predictive analysis.
+a) Add Win probability models and predictive analysis.
 b) Create player comparison reports.
 c) Integrate real-time IPL data APIs for live dashboards.
 
